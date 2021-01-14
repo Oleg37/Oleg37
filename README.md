@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitors](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=Oleg37)
 
 <!--
 **Oleg37/Oleg37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
